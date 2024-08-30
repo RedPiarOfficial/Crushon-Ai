@@ -27,5 +27,6 @@ To begin, ensure that you have your API credentials ready. Make sure to follow t
 ## Useful Links:
 - [Author](https://t.me/Redpiar)
 - [Documentation](https://red-3.gitbook.io/crushon-api)
+- [CrushonChat](https://github.com/RedPiarOfficial/Crushon-Chat)
 
 Feel free to explore the API and make the most out of it!
